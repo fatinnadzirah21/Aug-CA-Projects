@@ -1,4 +1,4 @@
-# Public-Drinking-Water-Fountain
+# Public-Drinking-Water-Fountain-Dashboard
 ![170922 Public Drinking Water Fountain (2)](https://user-images.githubusercontent.com/111636639/204792180-0963f787-7921-47cd-ab58-d3ca18e9a18a.PNG)
 
 - The project is done under MySTEP program for Business Analytics Course in TalentLabs.
